@@ -1,4 +1,4 @@
-num1=int(input("Enter a number: "))
+num1 = int(input("Enter a number: "))
 
 print("Multiplication table for:", )
 for i in range (num1, 13):
